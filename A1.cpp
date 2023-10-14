@@ -1,4 +1,4 @@
-// Name: Muhammad Zaid Mohsin   Registration number: 2022457    CS221 C
+//This code shows how to convert the infix expression to postfix and then solve the postfix expression 
 #include <iostream>
 #include <math.h>
 #include <string>
